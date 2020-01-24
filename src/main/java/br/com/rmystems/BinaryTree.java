@@ -63,7 +63,7 @@ public class BinaryTree {
     int height(Node root) {
 
         if (root == null) {
-            return 0;
+            return -1;
         } else {
             int lheight = height(root.left);
             int rheight = height(root.right);
