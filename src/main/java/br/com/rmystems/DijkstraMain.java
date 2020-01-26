@@ -1,9 +1,10 @@
-package main.java.br.com.rmystems;
+package br.com.rmystems;
 
-import main.java.br.com.rmystems.dijkstra.DijkstraAlgorithm;
-import main.java.br.com.rmystems.dijkstra.Edge;
-import main.java.br.com.rmystems.dijkstra.Graph;
-import main.java.br.com.rmystems.dijkstra.Vertex;
+
+import br.com.rmystems.dijkstra.DijkstraAlgorithm;
+import br.com.rmystems.dijkstra.Edge;
+import br.com.rmystems.dijkstra.Graph;
+import br.com.rmystems.dijkstra.Vertex;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

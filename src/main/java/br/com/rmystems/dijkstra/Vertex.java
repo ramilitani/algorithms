@@ -1,4 +1,4 @@
-package main.java.br.com.rmystems.dijkstra;
+package br.com.rmystems.dijkstra;
 
 import java.util.Objects;
 
