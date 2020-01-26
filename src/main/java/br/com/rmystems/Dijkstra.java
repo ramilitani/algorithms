@@ -10,13 +10,13 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class DijkstraMain {
+public class Dijkstra {
 
     private List<Vertex> nodes;
     private List<Edge> edges;
 
     public static  void main(String[] args) {
-        DijkstraMain main = new DijkstraMain();
+        Dijkstra main = new Dijkstra();
         main.execute();
     }
 
